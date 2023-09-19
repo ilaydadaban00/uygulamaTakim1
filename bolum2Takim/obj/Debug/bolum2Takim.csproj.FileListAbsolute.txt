@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\bin\Debug\bolum2Takim.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\bin\Debug\bolum2Takim.exe
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\bin\Debug\bolum2Takim.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.exe
+C:\Users\User\Desktop\KORUMASIZ\ilayda\bolum2Takim\bolum2Takim\obj\Debug\bolum2Takim.pdb
